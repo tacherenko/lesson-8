@@ -1,18 +1,18 @@
 @font-face {
   font-family: "TT Norms Bold";
-  src: url("../fonts/TTNorms/TTNorms-Bold.woff");
+  src: url("/lesson-8/TTNorms/TTNorms-Bold.woff");
   font-weight: 700;
 }
 
 @font-face {
   font-family: "TT Norms Medium";
-  src: url("../fonts/TTNorms/TTNorms-Medium.woff");
+  src: url("/lesson-8/TTNorms/TTNorms-Medium.woff");
   font-weight: 500;
 }
 
 @font-face {
   font-family: "TT Norms Regular";
-  src: url("../fonts/TTNorms/TTNorms-Regular.woff");
+  src: url("/lesson-8/TTNorms/TTNorms-Regular.woff");
   font-weight: 400;
 }
 :root {
@@ -62,7 +62,7 @@ main {
   padding-top: 20px;
 }
 #breadcrumbs {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 
 .breadcrumbs {
@@ -92,7 +92,7 @@ main {
 .title {
   font-size: 30px;
   line-height: 40px;
-  font-family: var(--font-tt-norms-bold);
+  font-family: var(--font-tt-norms-medium);
   color: var(--secondary-color);
   margin-bottom: 20px;
 }
