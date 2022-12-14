@@ -82,7 +82,7 @@ main {
   content: "";
   width: 24px;
   height: 24px;
-  background: url("/img/Arrow_Right.svg") no-repeat center / cover;
+  background: url("/lesson-8/img/Arrow_Right.svg") no-repeat center / cover;
   position: absolute;
   right: -29px;
   top: 50%;
@@ -141,7 +141,7 @@ td {
 }
 .actions-column {
   width: 165px;
-  padding-right: 30px;
+  padding-right: 28px;
 }
 .product-image {
   display: flex;
